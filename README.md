@@ -17,7 +17,9 @@ Ce projet consiste en la conception d'un modèle mécanique sous SolidWorks, l'e
 - 🚀 sw_urdf_exporter : Plugin SolidWorks pour exporter des modèles en URDF
   
   ## 🖼️ Présentation de la Conception Mécanique
-![Conception Mécanique](https://github.com/Tasnim-b/PFE/blob/b2475a1bb3d08f9ccdc8586ef9cc966af674bf38/lesImagesDeLaConceptionM%C3%A9caniqueDuSyst%C3%A9me/syst%C3%A8me%20de%20soudure%203.png)
+<p align="center">
+  <img src="https://github.com/Tasnim-b/PFE/blob/b2475a1bb3d08f9ccdc8586ef9cc966af674bf38/lesImagesDeLaConceptionM%C3%A9caniqueDuSyst%C3%A9me/syst%C3%A8me%20de%20soudure%203.png" alt="Conception Mécanique" />
+</p>
 
 ## 🚀 Installation & Exécution
 📥 1. Cloner le projet
