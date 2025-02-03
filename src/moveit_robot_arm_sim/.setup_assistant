@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: finalassem
+    relative_path: urdf/finalassem.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/finalassem.srdf
+  CONFIG:
+    author_name: "tasnim "
+    author_email: benmabrouktasnim5@gmail.com
+    generated_timestamp: 1715292243
